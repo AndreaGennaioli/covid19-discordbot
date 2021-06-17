@@ -1,1 +1,1 @@
-exports.TOKEN_DISCORD = 'NzE4ODg4NjcyMjEyMTU2NTM3.XtvbrQ.XCaETtVqpPQ8Fj_ijou1zheZst4';
+exports.TOKEN_DISCORD = '';
